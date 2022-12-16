@@ -11,15 +11,15 @@
   <p> I am just 35 years old person who want to try something new in life. </p>
  <p> My skills: 
    <ul> 
-     <li> English - upper-intermidate </li>
+     <li> English - upper-intermedate </li>
      <li> Great is sales managment </li>
      <li> Ready for everything new </li>
   </ul>
   <p> Education: 
     <ul> 
-      <li> Synergy Univercity - Machelor in Managment </li>
+      <li> Synergy Univercity - Bachelor in Managment </li>
   </ul>
  <p> My greatest motivation is my family. I hvae a sweetiest dauther ever and i want to give her all the best. that's why i want to study programing. </P>
 </body>
-<a href https://github.com/pepechechka/rsschool-cv/blob/gh-pages/cv.md> my CV </a>
+
    
