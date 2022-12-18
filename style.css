@@ -1,0 +1,28 @@
+h1, h2, h3, header, nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 25px;
+    text-align: center;
+    color: #0ab6c2;
+}
+
+p, ul, article {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+
+
+footer {
+    text-align: center;
+}
+nav
+{
+  padding: 20px;
+}
