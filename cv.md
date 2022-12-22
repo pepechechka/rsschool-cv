@@ -19,7 +19,6 @@
     <ul> 
       <li> Synergy Univercity - Bachelor in Managment </li>
   </ul>
- <p> My greatest motivation is my family. I hvae a sweetiest dauther ever and i want to give her all the best. that's why i want to study programing. </P>
+ <p> My greatest motivation is my family. I have a sweetiest daugther ever and i want to give her all the best. that's why i want to study programing. </P>
 </body>
 
-   
